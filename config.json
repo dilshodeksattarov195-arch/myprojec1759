@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheparse",
+        "uuid": 2330675,
+        "checksum": "tjlczb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
